@@ -48,6 +48,7 @@ The analyzer provides some test data to test the installation if required. After
 
 # How to use the analyzer
 Refer the Architecture_And_Usage.pptx. 
-
+# Creating the analyzer config file 
+Refer the Architecture_And_Usage.pptx. 
 # Reading Analyzer Output 
 To-be-completed
